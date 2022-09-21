@@ -30,6 +30,7 @@ const Slags = (props) => {
       </div>
       <h2>Slug is {blog && blog.slug}</h2>
       <h2>Author is {blog && blog.author}</h2>
+      <h2>Author is {blog && blog.author}</h2>
     </div>
   )
 }
